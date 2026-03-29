@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Cleaned up old debug logs
 - Fixed minor edge case in input handling
 - Tidied up project structure
+
+## 2026-03-30
+- Added basic retry logic for network requests
+- Updated .gitignore to exclude build artifacts
